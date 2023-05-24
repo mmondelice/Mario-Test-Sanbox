@@ -1,4 +1,4 @@
-﻿<%@ Master Language="VB" AutoEventWireup="true" CodeBehind="Site.master.vb" Inherits="Hilliard_Blank_Project.SiteMaster" %>
+﻿<%@ Master Language="VB" AutoEventWireup="true" CodeBehind="Site.master.vb" Inherits="Mario_Test_Sandbox.SiteMaster" %>
 
 <!DOCTYPE html>
 
